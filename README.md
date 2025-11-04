@@ -1,2 +1,2 @@
 # sggw_one
-ćwiczenia z 1. zajęć
+## ćwiczenia z I i II części zajęć
